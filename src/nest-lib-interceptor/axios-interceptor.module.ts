@@ -5,4 +5,4 @@ import { LibAxiosInterceptorService } from './axios-interceptor.service'
   providers: [LibAxiosInterceptorService],
   exports: [LibAxiosInterceptorService]
 })
-export class AxiosInterceptorModule {}
+export class LibAxiosInterceptorModule {}
