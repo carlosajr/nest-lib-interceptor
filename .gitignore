@@ -1,7 +1,6 @@
 # compiled output
 **/__test__/output
 .reports
-/dist
 /node_modules
 # env files
 /**/.env*
@@ -105,7 +104,6 @@ out
 *.sublime-workspace
 # Nuxt.js build / generate output
 .nuxt
-dist
 
 # Gatsby files
 .cache/
